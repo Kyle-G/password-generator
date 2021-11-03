@@ -20,9 +20,9 @@ function generatePassword() {
     // if (lowerCase === "YES" || lowercase === "yes") {
     //     characters += lower;
     // } else if (lowerCase === "NO" || lowercase === "no") {
-    //     { continue };
+    //     break;
     // } else {
-    //     window.alert("You need to provide a valid answer! Please try again. Please enter YES or yes (case sensitive)");
+    //     window.alert("You need to provide a valid answer! Please try again. Please enter YES or yes, or NO and no(case sensitive)");
     //     return generatePassword();
     // }
 
